@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danier Marante Jacas
-- 👀 I’m interested in Nodejs, React , Angular and golang
+- 👀 I’m interested in Nodejs, React , Angular and .NetCore
 - 🌱 I'm currently learning to be a better developer
 - 💞️ I'm looking to collaborate on any interesting open source project
 - 📫 How to reach me , email: dmjacas@gmail.com
